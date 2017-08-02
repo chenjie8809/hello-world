@@ -29,8 +29,8 @@ public class helloworld {
 		//comment in git shell
 		int Idflag=1;
 		String info;
+		info="id is "+Idflag;
 		System.out.println("Hello World2£¡");
-
 	}
 
 }
