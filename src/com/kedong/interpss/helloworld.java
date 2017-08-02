@@ -29,6 +29,7 @@ public class helloworld {
 		//comment in git shell
 		int Idflag=1;
 		String info;
+		info="id is "+idflag;
 
 	}
 
