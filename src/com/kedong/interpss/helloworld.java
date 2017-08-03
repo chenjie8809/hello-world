@@ -31,6 +31,8 @@ public class helloworld {
 		String info;
 		info="id is "+Idflag;
 		System.out.println("Hello World2£¡");
+		System.out.println("Hello World3£¡");
+		System.out.println("Hello World4£¡");
 	}
 
 }
