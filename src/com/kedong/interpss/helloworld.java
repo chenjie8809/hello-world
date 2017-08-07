@@ -10,6 +10,8 @@
  */
 package com.kedong.interpss;
 
+import java.util.Date;
+
 /**
  * Chejie's Type
  *
@@ -33,6 +35,9 @@ public class helloworld {
 		System.out.println("Hello World2£¡");
 		System.out.println("Hello World3£¡");
 		System.out.println("Hello World4£¡");
+		Date oneDate=new Date();
+		System.out.print("Today is :"+oneDate.toString());
+		
 	}
 
 }
