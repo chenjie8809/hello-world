@@ -35,9 +35,10 @@ public class helloworld {
 		System.out.println("Hello World2£¡");
 		System.out.println("Hello World3£¡");
 		System.out.println("Hello World4£¡");
+		System.out.println("after hello2, add hello5");
+		System.out.println("Today is Aug 7,2017,Monday, add Hello6!");
 		Date oneDate=new Date();
 		System.out.print("Today is :"+oneDate.toString());
-		
 	}
 
 }
