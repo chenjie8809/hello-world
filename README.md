@@ -1,6 +1,7 @@
 # hello-world
 this is the first repository i create in git.
 Hi Humans!
-this is the second changing spot, which is used to check the git function.
-==========================================================
+This is the second place to make change in order to test Git function, the first place is HelloWorld.java.
+# my delimiter ###
 Today is Aug. 8,2017.
+
