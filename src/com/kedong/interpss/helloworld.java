@@ -33,6 +33,8 @@ public class helloworld {
 		info="id is "+Idflag;
 		System.out.println("Hello World2£¡");
 		System.out.println("Hello World3£¡");
+		Date date;
+		Run(date);
 	}
 	public void Run(Date date) {
 		System.out.println("Today is "+date.toString());
